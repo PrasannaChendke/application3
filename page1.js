@@ -45,3 +45,8 @@ function multiply(p1, p2){
     console.log(`${p1}*${p2} = ${p1*p2}`)
 }
 multiply(20,10)
+
+function square(p1){
+    console.log(`square of ${p1} is ` + Math.pow(p1,2))
+}
+square(4)
