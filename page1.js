@@ -58,3 +58,9 @@ cube(4)
 function func(){
     console.log("Welcome to git hub")
 }
+func()
+
+function func1(){
+    console.log("Hello git hub")
+}
+func1
