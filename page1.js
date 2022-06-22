@@ -25,3 +25,8 @@ function isOdd(number)
 
 isOdd(9)
 isOdd(10)
+
+function subtract(p1, p2){
+    console.log(`${p1}-${p2} = ${p1-p2}`)
+}
+subtract(20,10)
