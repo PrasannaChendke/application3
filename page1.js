@@ -45,3 +45,8 @@ function multiply(p1, p2){
     console.log(`${p1}*${p2} = ${p1*p2}`)
 }
 multiply(20,10)
+
+function cube(p1){
+    console.log(`Cube of ${p1} is `+ Math.pow(p1,3))
+}
+cube(4)
