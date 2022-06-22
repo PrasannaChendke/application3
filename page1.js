@@ -50,3 +50,7 @@ function square(p1){
     console.log(`square of ${p1} is ` + Math.pow(p1,2))
 }
 square(4)
+function cube(p1){
+    console.log(`Cube of ${p1} is `+ Math.pow(p1,3))
+}
+cube(4)
