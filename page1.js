@@ -54,3 +54,7 @@ function cube(p1){
     console.log(`Cube of ${p1} is `+ Math.pow(p1,3))
 }
 cube(4)
+
+function func(){
+    console.log("Welcome to git hub")
+}
