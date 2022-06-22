@@ -36,3 +36,8 @@ function subtract(p1, p2){
     console.log(`${p1}-${p2} = ${p1-p2}`)
 }
 subtract(20,10)
+
+function divide(p1, p2){
+    console.log(`${p1}/${p2} = ${p1/p2}`)
+}
+divide(20,10)
